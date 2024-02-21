@@ -13,3 +13,4 @@ jobs:
     with:
       snap-name: mcap-editor
       publish: true
+      branch-name: 'main'
